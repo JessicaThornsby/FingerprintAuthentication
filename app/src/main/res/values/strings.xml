@@ -1,0 +1,6 @@
+
+    <resources>
+        <string name="app_name">Fingerprint Authentication</string>
+        <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
+    </resources>
+
